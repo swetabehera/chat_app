@@ -19,7 +19,7 @@ Built as a part of learning TypeScript concepts, it is a chat application with r
 
 ### Homepage
 
-![](/Screenshots/Homepage.png)
+![home](https://user-images.githubusercontent.com/34244004/169693263-cb3808b9-0090-4268-8c18-63e7b3f70eec.gif)
 
 ### Chatrooms
 
