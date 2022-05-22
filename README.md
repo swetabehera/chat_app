@@ -14,3 +14,24 @@ Built as a part of learning TypeScript concepts, it is a chat application with r
 - ExpressJS
 - React.js
 - React hooks
+
+## Screenshots:
+
+### Homepage
+
+![](/Screenshots/Homepage.png)
+
+### Chatrooms
+
+![](/Screenshots/Chatroom.png)
+
+### Live Demo
+
+
+
+
+
+### Server
+
+![](/Screenshots/Server.png)
+
