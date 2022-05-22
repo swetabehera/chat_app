@@ -6,6 +6,7 @@ Built as a part of learning TypeScript concepts, it is a chat application with r
 - Create usernames to chat
 - Create chat rooms
 - Send messages
+- Receive messages
 
 ## Tech Stack :
 - TypeScript
