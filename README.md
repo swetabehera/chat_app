@@ -1,4 +1,4 @@
-# Chat App
+# Chat-Tastic (Chat App)
 
 Built as a part of learning TypeScript concepts, it is a chat application with rooms.
 
