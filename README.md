@@ -15,6 +15,7 @@ A full-stack web app that enables realtime chat feature for the users along with
 - Socket.IO
 - React.js
 - Next.js
+- CSS
 
 ## Screenshots:
 
