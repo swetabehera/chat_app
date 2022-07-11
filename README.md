@@ -1,20 +1,20 @@
 # Chat-Tastic (Chat App)
 
-Built as a part of learning TypeScript concepts, it is a chat application with rooms.
+A full-stack web app that enables realtime chat feature for the users along with creation of separate chat rooms. It is built as a part of learning TypeScript concepts
 
 ## Features :
 - Create usernames to chat
 - Create chat rooms
-- Send messages
-- Receive messages
+- Send/Receive messages
+- Show notification when a new message arrives.
 
 ## Tech Stack :
 - TypeScript
-- CSS (BootStrap)
 - Node.js
-- ExpressJS
+- Express.js
+- Socket.IO
 - React.js
-- React hooks
+- Next.js
 
 ## Screenshots:
 
