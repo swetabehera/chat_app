@@ -25,7 +25,7 @@ A full-stack web app that enables realtime chat feature for the users along with
 
 ### Chatrooms
 
-![](/Screenshots/Chatroom.png)
+<img width="1280" alt="Chatroom" src="https://user-images.githubusercontent.com/34244004/207305470-eee5a96d-9f67-44c6-9bfc-9a63a05a6b27.png">
 
 ### Demo
 
